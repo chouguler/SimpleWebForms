@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0
+/SimpleWebFormsApp/bin
+/SimpleWebFormsApp/obj/Debug
+/SimpleWebFormsApp/obj/Release
